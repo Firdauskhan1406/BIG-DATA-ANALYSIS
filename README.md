@@ -12,6 +12,14 @@
 
 "MENTOR" : NEELA SANTOSH
 
+
+##OUTPUT OF THE CODES
+![Image](https://github.com/user-attachments/assets/841f0d04-129f-4d89-be5c-a8c625ce8929)
+
+![Image](https://github.com/user-attachments/assets/957c445e-450b-4142-ba97-3f946e2f81fb)
+
+![Image](https://github.com/user-attachments/assets/11bf43eb-8a5c-4d86-a0e5-5fcc5b535f4b)
+
 Objective of the Notebook
 The Customer Churn Prediction project focuses on predicting whether a customer will stop using a service based on behavioral and transactional data. This prediction helps businesses retain customers by identifying potential churners early and implementing proactive measures to engage them.
 
